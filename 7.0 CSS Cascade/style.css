@@ -1,0 +1,18 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+  
+}
+#outer-box{
+  border: 20px solid saddlebrown;
+}
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.boxinner-box{
+  background-color: red;
+}
